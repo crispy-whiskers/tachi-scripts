@@ -3,10 +3,10 @@
 // @version      0.1
 // @description  Export Gitadora scores from Flower. Based off a script by blobdash, Meta-link and Humanbomb.
 // @author       nebbii
-// @match        https://projectflower.eu/game/gitadora/*
-// @exclude      https://projectflower.eu/game/gitadora/*/scores
-// @exclude      https://projectflower.eu/game/gitadora/*/custom
-// @exclude      https://projectflower.eu/game/gitadora/*/players
+// @match        https://eagle.ac/game/gitadora/*
+// @exclude      https://eagle.ac/game/gitadora/*/scores
+// @exclude      https://eagle.ac/game/gitadora/*/custom
+// @exclude      https://eagle.ac/game/gitadora/*/players
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=projectflower.eu
 // @require      https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.2/moment.js
 // @require      https://raw.githubusercontent.com/eligrey/FileSaver.js/master/dist/FileSaver.min.js
